@@ -20,7 +20,6 @@
       <name>Blue Line</name>
       <styleUrl>#blueLine</styleUrl>
       <LineString>
-        <altitudeMode>relative</altitudeMode>
         <coordinates>
 -87.89289951324463,41.97881025520548,0
 -87.89184808731079,41.97788506340239,0
