@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<!-- Data derived from:
+       Ed Knittel - || tastypopsicle.com
+       Feel free to use this file for your own purposes.
+       Just leave the comments and credits when doing so.
+-->
+  <Document>
+    <name>Chicago Transit Map</name>
+    <description>Bangalore Bus Network route lines</description>
+
+    <Style id="blueLine">
+      <LineStyle>
+        <color>ffff0000</color>
+        <width>4</width>
+      </LineStyle>
+    </Style>
+	
+	<Placemark>
+      <name>Blue Line</name>
+      <styleUrl>#blueLine</styleUrl>
+      <LineString>
+        <altitudeMode>relative</altitudeMode>
+        <coordinates>
+12.91975658,77.5923589,0
+12.92268932,77.59338455,0
+12.92318598,77.58877168,0
+12.9279596,77.58760419,0
+12.92848264,77.58420959,0
+12.93177833,77.58390636,0
+12.93610683,77.58392363,0
+12.93666431,77.57664571,0
+12.93672057,77.57217014,0
+	
+	
+	
+	
+		</coordinates>
+	  </LineString>
+	</Placemark>
